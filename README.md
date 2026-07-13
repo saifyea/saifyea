@@ -9,3 +9,13 @@ Currently building practical AI applications using **Python, LangChain, RAG, AI 
 🌍 Bangladesh  
 💼 IT & Payroll Manager → AI Integration Specialist  
 🚀 Building AI solutions in public through my #100DaysOfAI journey
+
+## 👨‍💻 About Me
+
+I have spent over 17 years managing enterprise IT infrastructure, SQL Server databases, ERP, payroll systems, and network operations in the garment manufacturing industry.
+
+Today, I'm expanding that experience into AI Integration by building practical applications with Python, LangChain, Retrieval-Augmented Generation (RAG), AI Agents, and workflow automation.
+
+I enjoy solving real business problems with AI and continuously share my learning journey by building projects in public.
+
+My goal is to help businesses automate processes, improve productivity, and integrate AI into everyday operations.
