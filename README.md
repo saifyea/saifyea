@@ -47,3 +47,44 @@ My goal is to help businesses automate processes, improve productivity, and inte
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
+---
+
+## 🚀 Featured Projects
+
+### 🤖 RAG-powered AI Customer Support Agent with Memory
+
+An AI customer support agent combining **RAG, LLM, and conversational memory** to answer business questions using a Bengali knowledge base.
+
+**Tech:** Python, Anthropic Claude API, RAG, AI Agent
+
+🔗 Repository: [ai-agent-with-memory](https://github.com/saifyea/ai-agent-with-memory)
+
+---
+
+### 🧠 RAG Interactive Q&A System
+
+A Retrieval-Augmented Generation system that allows users to ask questions from custom documents and receive context-aware answers.
+
+**Tech:** Python, RAG, LLM, Vector Store
+
+🔗 Repository: Coming Soon
+
+---
+
+### 🛍️ AI-powered F-Commerce Content Generator
+
+An AI tool that generates product descriptions and marketing content for online businesses.
+
+**Tech:** Python, LLM API, Prompt Engineering
+
+🔗 Repository: Coming Soon
+
+---
+
+### 💬 Interactive AI Chatbot
+
+A multi-turn conversational chatbot with API integration and conversation history management.
+
+**Tech:** Python, API Integration, JSON Memory
+
+🔗 Repository: Coming Soon
