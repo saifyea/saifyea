@@ -19,3 +19,31 @@ Today, I'm expanding that experience into AI Integration by building practical a
 I enjoy solving real business problems with AI and continuously share my learning journey by building projects in public.
 
 My goal is to help businesses automate processes, improve productivity, and integrate AI into everyday operations.
+---
+
+## 🛠 Tech Stack
+
+### Programming Language
+- Python
+
+### AI & Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Conversational AI
+- Prompt Engineering
+
+### Frameworks & APIs
+- LangChain
+- Anthropic Claude API
+- REST API Integration
+
+### Data & Storage
+- JSON
+- File Handling
+- Vector Database (Learning)
+
+### Tools
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
