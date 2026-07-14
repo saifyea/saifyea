@@ -49,6 +49,32 @@ My goal is to help businesses automate processes, improve productivity, and inte
 - Jupyter Notebook
 ---
 
+## 📚 Currently Learning & Building
+
+🚀 Following a **100 Days AI Integration Journey** where I build practical AI applications and share my progress publicly.
+
+Currently focusing on:
+
+- 🤖 AI Agents with Memory
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 💬 Conversational AI Systems
+- 🔗 LLM API Integration
+- ⚙️ AI-powered Business Automation
+- 🐍 Advanced Python for AI Applications
+
+---
+
+## 💡 My AI Integration Journey
+
+I am combining my **17+ years of enterprise IT experience** with modern AI technologies to build practical solutions for real-world business problems.
+
+My focus is not only learning AI concepts, but applying them to:
+
+- Automate business workflows
+- Improve customer support
+- Reduce repetitive tasks
+- Create AI-powered business solutions---
+
 ## 🚀 Featured Projects
 
 ### 🤖 RAG-powered AI Customer Support Agent with Memory
