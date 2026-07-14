@@ -114,3 +114,26 @@ A multi-turn conversational chatbot with API integration and conversation histor
 **Tech:** Python, API Integration, JSON Memory
 
 🔗 Repository: Coming Soon
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn  
+[linkedin.com/in/saifuddin-yeahea-b557a1109](https://www.linkedin.com/in/saifuddin-yeahea-b557a1109)
+
+💻 GitHub  
+[github.com/saifyea](https://github.com/saifyea)
+
+📧 Open to:
+- AI Integration Projects
+- Business Automation Solutions
+- AI Agent Development
+- Freelance Collaboration
+
+---
+
+## 📊 GitHub Stats
+
+![Saifuddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifyea&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=saifyea)
