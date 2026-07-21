@@ -137,3 +137,7 @@ A multi-turn conversational chatbot with API integration and conversation histor
 ![Saifuddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifyea&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=saifyea)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Claude API](https://img.shields.io/badge/Claude-API-orange)
+![AI](https://img.shields.io/badge/AI-Powered-green)
